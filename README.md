@@ -27,4 +27,6 @@ Before running the script, ensure you have the following dependencies installed:
 
 ### Usage
 
-You absolutely need to give it wallpapers the exact size of your resolution, otherwise the wallpaper won't be filling your deskltop
+- You absolutely need to give it wallpapers the exact size of your resolution, otherwise the wallpaper won't be filling your deskltop
+- You need to know what workspace belongs to what screen.
+- This script assumes you got two displays
